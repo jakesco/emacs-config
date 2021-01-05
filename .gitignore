@@ -1,2 +1,4 @@
+# Ignore everything except init.el and notes
+*
 !init.el
 !notes/
